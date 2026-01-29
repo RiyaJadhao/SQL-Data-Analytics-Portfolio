@@ -31,7 +31,7 @@ Window functions are essential for:
 - Products
 - Payments
 
-Refer to **ERD.png** for table relationships.
+![ERD](ERD.png)
 
 ---
 
